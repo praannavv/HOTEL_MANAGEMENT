@@ -1,6 +1,6 @@
 # HOTEL_MANAGEMENT SYSTEM
 # Introduction
-The Hotel Management System is a C++ console-based application designed to manage and automate various tasks in a hotel. This system allows users to book rooms, manage guest information, and perform administrative functions efficiently. It is built using object-oriented programming principles and uses data structures such as linked lists and sets to maintain and organize data. This project is for the FY student who want's to make project and want some reference , It is Easy one you can try it out
+The Hotel Management System is a C++ console-based application designed to manage and automate various tasks in a hotel. This system allows users to book rooms, manage guest information, and perform administrative functions efficiently. It is built using object-oriented programming principles and uses data structures such as linked lists and sets to maintain and organize data. This project is for the FY student who want's to make project and want some reference , It is Easy one you can try it out. Also you can add many more features like food_item , food_billing , Billing__of_room in this you can add time when room was booked and charge fare according to the time they have spend in the hotel and many many more , it was my simple college project and i didn't got time to complete it properly but you can , BEST OF LUCK
 
 Features
 
